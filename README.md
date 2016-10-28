@@ -1,2 +1,9 @@
 # PuppetAutomataion with AWS
-# STEPS TO INSTALL MASTER AND PUPPET AGENT ON EC2 INSTANCE
+
+
+
+Requirements
+
+
+
+Quick Start
